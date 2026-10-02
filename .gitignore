@@ -1,0 +1,35 @@
+# macOS / exFAT
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.egg-info/
+
+# Data — keep raw imagery and downloads out of git, EXCEPT the derived
+# classified snapshot (redistributable: Copernicus-derived, attributed).
+# Ground caches (Ontario Parks etc.) must never be committed — Crown copyright.
+data/
+prototype/output/**
+!prototype/output/places/
+!prototype/output/places/**/
+!prototype/output/places/**/meta.json
+!prototype/output/places/**/classified.npz
+prototype/output/places/*.old/
+# Parks report history: non-commercial reproduction with attribution
+# (© King's Printer for Ontario) — needed for validation; see docs/data-licences.md
+!prototype/output/ground/
+!prototype/output/ground/onparks_history.csv
+*.tif
+*.tiff
+*.nc
+*.zarr
+
+# Secrets — never commit credentials
+.env
+*_key
+*.key

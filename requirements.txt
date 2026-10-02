@@ -1,0 +1,11 @@
+# For Streamlit Community Cloud (local dev uses uv + PEP 723 headers instead)
+streamlit~=1.40
+streamlit-folium~=0.27
+folium
+numpy
+pandas
+matplotlib
+pystac-client~=0.9
+odc-stac~=0.5
+xarray
+requests
