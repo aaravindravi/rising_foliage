@@ -89,10 +89,21 @@ Point Farms,2026-09-25,Green,20.0,10.0
 Port Burwell,2026-09-24,Green,0.0,0.0
 Sandbanks,2026-10-01,Green,30.0,10.0
 The Massasauga,2026-10-02,Orange,50.0,10.0
+Balsam Lake,2026-09-29,Yellow/Orange,50.0,20.0
+Frontenac,2026-10-02,Yellow/Orange,50.0,30.0
+Lake St. Peter,2026-09-30,Yellow/Orange,70.0,10.0
+McRae Point,2026-10-02,Yellow,40.0,20.0
+Mikisew,2026-10-02,Red/Orange,90.0,20.0
+Sharbot Lake,2026-09-30,Green,30.0,20.0
+Silent Lake,2026-09-29,Yellow,70.0,10.0
+Silver Lake,2026-09-30,Green,30.0,30.0
+Sioux Narrows,2026-09-28,Yellow,40.0,20.0
+Sleeping Giant,2026-10-03,Yellow,50.0,20.0
+Turkey Point,2026-10-01,Green,20.0,30.0
 Algonquin,2026-10-05,Yellow/Orange,90.0,30.0
 Arrowhead,2026-10-01,Orange,90.0,20.0
 Awenda,2026-10-02,Green,30.0,10.0
-Balsam Lake,2026-09-29,Yellow/Orange,50.0,20.0
+Balsam Lake,2026-10-06,Yellow/Orange,60.0,30.0
 Bass Lake,2026-09-29,Green,10.0,10.0
 Batchawana Bay,2026-10-03,Yellow/Orange,50.0,30.0
 Bon Echo,2026-10-05,Orange,60.0,30.0
@@ -108,7 +119,7 @@ Finlayson Point,2026-10-02,Yellow/Orange,50.0,10.0
 Fitzroy,2026-10-05,Green,40.0,10.0
 Forks of the Credit,2026-10-05,Yellow/Orange,70.0,10.0
 French River,2026-10-01,Green,30.0,10.0
-Frontenac,2026-10-02,Yellow/Orange,50.0,30.0
+Frontenac,2026-10-06,Orange,60.0,40.0
 Grundy Lake,2026-10-01,Yellow,50.0,40.0
 Inverhuron,2026-10-05,Yellow,50.0,30.0
 Kakabeka Falls,2026-10-01,Yellow,40.0,20.0
@@ -117,15 +128,15 @@ Kettle Lakes,2026-10-02,Green,60.0,40.0
 Killarney,2026-10-02,Green,50.0,10.0
 Killbear,2026-10-03,Yellow,40.0,10.0
 Komoka,2026-10-01,Green,20.0,30.0
-Lake St. Peter,2026-09-30,Yellow/Orange,70.0,10.0
+Lake St. Peter,2026-10-06,Yellow/Orange,70.0,20.0
 Lake Superior - North,2026-10-04,Red/Orange,80.0,10.0
 Lake Superior - South,2026-10-04,Red/Orange,70.0,10.0
 Long Point,2026-10-02,Green,20.0,10.0
 MacGregor Point,2026-10-05,Orange,60.0,40.0
 Mark S. Burnham,2026-09-30,Green,40.0,10.0
 Marten River,2026-10-02,Red/Orange,50.0,10.0
-McRae Point,2026-10-02,Yellow,40.0,20.0
-Mikisew,2026-10-02,Red/Orange,90.0,20.0
+McRae Point,2026-10-06,Yellow,40.0,30.0
+Mikisew,2026-10-05,Red/Orange,90.0,40.0
 Mono Cliffs,2026-10-05,Yellow/Orange,70.0,10.0
 Murphys Point,2026-10-05,Yellow,50.0,10.0
 Neys,2026-10-02,Yellow,60.0,20.0
@@ -147,15 +158,15 @@ Rushing River,2026-10-03,Yellow,60.0,20.0
 Samuel de Champlain,2026-10-03,Yellow/Orange,80.0,30.0
 Sandbanks,2026-10-05,Green,40.0,20.0
 Sauble Falls,2026-10-01,Yellow/Orange,70.0,30.0
-Sharbot Lake,2026-09-30,Green,30.0,20.0
+Sharbot Lake,2026-10-06,Orange,50.0,50.0
 Sibbald Point,2026-10-01,Green,40.0,20.0
-Silent Lake,2026-09-29,Yellow,70.0,10.0
-Silver Lake,2026-09-30,Green,30.0,30.0
-Sioux Narrows,2026-09-28,Yellow,40.0,20.0
-Sleeping Giant,2026-10-03,Yellow,50.0,20.0
+Silent Lake,2026-10-05,Yellow,70.0,20.0
+Silver Lake,2026-10-06,Orange,70.0,50.0
+Sioux Narrows,2026-10-06,Yellow,60.0,40.0
+Sleeping Giant,2026-10-06,Yellow,60.0,20.0
 Sturgeon Bay,2026-10-01,Green,30.0,20.0
 The Massasauga,2026-10-05,Orange,60.0,20.0
-Turkey Point,2026-10-01,Green,20.0,30.0
+Turkey Point,2026-10-05,Green,30.0,40.0
 Voyageur,2026-10-01,Yellow/Orange,60.0,10.0
 Wasaga Beach,2026-10-01,Green,30.0,10.0
 Wheatley,2026-09-29,Green,10.0,0.0
