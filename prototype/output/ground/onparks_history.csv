@@ -136,35 +136,52 @@ Sleeping Giant,2026-10-06,Yellow,60.0,20.0
 Sturgeon Bay,2026-10-01,Green,30.0,20.0
 Wheatley,2026-09-29,Green,10.0,0.0
 Algonquin,2026-10-07,Yellow/Orange,90.0,40.0
-Arrowhead,2026-10-08,Orange,100.0,40.0
 Awenda,2026-10-08,Yellow,70.0,10.0
+Bon Echo,2026-10-07,Orange,60.0,40.0
+Caliper Lake,2026-10-03,Yellow,60.0,20.0
+Chutes,2026-10-04,Yellow/Orange,80.0,40.0
+Darlington,2026-10-02,Green,20.0,10.0
+French River,2026-10-01,Green,30.0,10.0
+Grundy Lake,2026-10-01,Yellow,50.0,40.0
+Inverhuron,2026-10-05,Yellow,50.0,30.0
+Kap-Kig-Iwan,2026-10-01,Yellow,40.0,20.0
+Lake St. Peter,2026-10-06,Yellow/Orange,70.0,20.0
+Neys,2026-10-02,Yellow,60.0,20.0
+Presqu'ile,2026-09-29,Green,30.0,0.0
+Rushing River,2026-10-03,Yellow,60.0,20.0
+Turkey Point,2026-10-05,Green,30.0,40.0
+Voyageur,2026-10-01,Yellow/Orange,60.0,10.0
+Wasaga Beach,2026-10-01,Green,30.0,10.0
+Algonquin,2026-10-09,Yellow/Orange,100.0,50.0
+Arrowhead,2026-10-08,Orange,100.0,40.0
+Awenda,2026-10-09,Yellow,70.0,10.0
 Balsam Lake,2026-10-06,Yellow/Orange,60.0,30.0
 Bass Lake,2026-10-08,Green,10.0,10.0
 Batchawana Bay,2026-10-06,Yellow,50.0,20.0
-Bon Echo,2026-10-07,Orange,60.0,40.0
+Bon Echo,2026-10-08,Orange,60.0,40.0
 Bonnechere,2026-10-05,Yellow/Orange,70.0,50.0
 Bronte Creek,2026-10-05,Yellow,40.0,20.0
-Caliper Lake,2026-10-03,Yellow,60.0,20.0
+Caliper Lake,2026-10-09,Yellow,90.0,40.0
 Charleston Lake,2026-10-07,Yellow/Orange,60.0,20.0
-Chutes,2026-10-04,Yellow/Orange,80.0,40.0
-Darlington,2026-10-02,Green,20.0,10.0
+Chutes,2026-10-08,Yellow/Orange,80.0,60.0
+Darlington,2026-10-08,Green,30.0,10.0
 Driftwood,2026-10-07,Yellow/Orange,80.0,40.0
 Earl Rowe,2026-10-05,Yellow,40.0,10.0
 Ferris,2026-10-08,Yellow/Orange,60.0,30.0
 Finlayson Point,2026-10-08,Yellow/Orange,80.0,30.0
 Fitzroy,2026-10-05,Green,40.0,10.0
 Forks of the Credit,2026-10-05,Yellow/Orange,70.0,10.0
-French River,2026-10-01,Green,30.0,10.0
+French River,2026-10-09,Green,70.0,20.0
 Frontenac,2026-10-08,Orange,60.0,40.0
-Grundy Lake,2026-10-01,Yellow,50.0,40.0
-Inverhuron,2026-10-05,Yellow,50.0,30.0
+Grundy Lake,2026-10-09,Orange,70.0,40.0
+Inverhuron,2026-10-08,Yellow,50.0,30.0
 Kakabeka Falls,2026-10-08,Yellow,60.0,20.0
-Kap-Kig-Iwan,2026-10-01,Yellow,40.0,20.0
+Kap-Kig-Iwan,2026-10-08,Yellow,70.0,30.0
 Kettle Lakes,2026-10-08,Yellow,70.0,50.0
 Killarney,2026-10-08,Green,60.0,20.0
 Killbear,2026-10-03,Yellow,40.0,10.0
 Komoka,2026-10-08,Yellow,40.0,30.0
-Lake St. Peter,2026-10-06,Yellow/Orange,70.0,20.0
+Lake St. Peter,2026-10-09,Yellow,80.0,40.0
 Lake Superior - North,2026-10-08,Yellow/Orange,90.0,40.0
 Lake Superior - South,2026-10-08,Red/Orange,80.0,20.0
 Long Point,2026-10-08,Green,30.0,30.0
@@ -175,7 +192,7 @@ McRae Point,2026-10-06,Yellow,40.0,30.0
 Mikisew,2026-10-05,Red/Orange,90.0,40.0
 Mono Cliffs,2026-10-05,Yellow/Orange,70.0,10.0
 Murphys Point,2026-10-05,Yellow,50.0,10.0
-Neys,2026-10-02,Yellow,60.0,20.0
+Neys,2026-10-09,Yellow,80.0,30.0
 Oastler Lake,2026-10-05,Orange,60.0,20.0
 Oxtongue River-Ragged Falls,2026-10-08,Orange,100.0,40.0
 Pancake Bay,2026-10-08,Yellow/Orange,70.0,40.0
@@ -183,14 +200,14 @@ Petroglyphs,2026-10-07,Yellow,70.0,30.0
 Pigeon River,2026-10-08,Yellow,60.0,20.0
 Pinery,2026-10-05,Green,10.0,0.0
 Point Farms,2026-10-05,Yellow,40.0,20.0
-Port Burwell,2026-10-08,Green,20.0,10.0
-Presqu'ile,2026-09-29,Green,30.0,0.0
+Port Burwell,2026-10-08,Green,30.0,20.0
+Presqu'ile,2026-10-08,Yellow,40.0,0.0
 Quetico,2026-10-07,Green,80.0,40.0
 Rainbow Falls,2026-10-01,Yellow/Orange,50.0,20.0
 Restoule,2026-10-07,Yellow/Orange,80.0,30.0
 Rideau River,2026-10-08,Yellow/Orange,20.0,20.0
 Rondeau,2026-10-07,Green,30.0,20.0
-Rushing River,2026-10-03,Yellow,60.0,20.0
+Rushing River,2026-10-09,Yellow,90.0,40.0
 Samuel de Champlain,2026-10-03,Yellow/Orange,80.0,30.0
 Sandbanks,2026-10-07,Yellow/Orange,50.0,20.0
 Sauble Falls,2026-10-06,Yellow/Orange,70.0,40.0
@@ -202,7 +219,7 @@ Sioux Narrows,2026-10-06,Yellow,60.0,40.0
 Sleeping Giant,2026-10-08,Yellow,80.0,30.0
 Sturgeon Bay,2026-10-07,Green,50.0,40.0
 The Massasauga,2026-10-05,Orange,60.0,20.0
-Turkey Point,2026-10-05,Green,30.0,40.0
-Voyageur,2026-10-01,Yellow/Orange,60.0,10.0
-Wasaga Beach,2026-10-01,Green,30.0,10.0
+Turkey Point,2026-10-09,Green,30.0,40.0
+Voyageur,2026-10-08,Yellow/Orange,80.0,30.0
+Wasaga Beach,2026-10-09,Green,50.0,30.0
 Wheatley,2026-10-08,Green,20.0,0.0
